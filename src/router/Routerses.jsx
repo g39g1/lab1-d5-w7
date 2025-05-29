@@ -2,7 +2,7 @@
 import {createBrowserRouter,RouterProvider, Outlet} from "react-router";
 import Home from "../Pages/Home";
 import Nav from "../compunt/Nav";
-import Register from "../Pages/register";
+import Register from "../Pages/Register";
 import Login from "../Pages/Login";
 import ProfilePage from "../Pages/ProfilePage";
 
