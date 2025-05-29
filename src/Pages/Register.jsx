@@ -61,7 +61,7 @@ function Register() {
         <p className="text-green-600 text-center mb-4 font-semibold">{toastMessage}</p>
       )}
       <form onSubmit={handleSubmit} noValidate className="space-y-6">
-        <label className="input input-bordered flex items-center gap-2">
+        <label className="input input-bordered flex items-center gap-2 s">
           <input
             type="text"
             className="grow px-3 py-2 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-cyan-600 transition"
